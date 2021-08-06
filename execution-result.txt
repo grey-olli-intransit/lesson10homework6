@@ -1,0 +1,6 @@
+Original:
+[50][30][30][20] Size: 4 
+Copied:
+[50][30][30][20] Size: 4 
+Sorted from higher to lower.
+Sorted.
